@@ -169,7 +169,7 @@ Compliance Support: Helps organizations meet privacy regulations by automaticall
 Whether you're a business handling customer data, a healthcare provider managing patient records, or an organization dealing with confidential documents, this tool provides the necessary features to ensure document privacy while maintaining accessibility.
 
 
-#Future Development
+# Future Development
 
 The project is open to contributions and improvements, particularly in areas such as:
 
